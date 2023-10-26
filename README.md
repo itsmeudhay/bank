@@ -1,8 +1,27 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bank App
+This is a simple bank app that allows users to create and manage their finances. It is written in JavaScript and uses the React framework.
 
-Currently, two official plugins are available:
+To use the app, simply clone this repository and run npm install to install the dependencies. Then, run npm start to start the development server. The app will be accessible at http://localhost:3000.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+
+Create and manage accounts
+Deposit and withdraw money
+Transfer money between accounts
+View transaction history
+Export transaction history to CSV
+
+Development:
+
+The app is developed using the following technologies:
+
+React
+JavaScript
+Tailwind CSS
+HTML
+To contribute to the development of the app, please fork this repository and create a pull request with your changes.
+
+License:
+
+The app is licensed under the MIT License.
