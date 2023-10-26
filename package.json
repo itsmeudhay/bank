@@ -1,6 +1,6 @@
 {
-  "homepage": "https://itsmeudhay.github.io/modernapp/",
-  "name": "bankmodernapp",
+  "homepage": "https://itsmeudhay.github.io/bank/",
+  "name": "bank",
   "private": true,
   "version": "0.0.0",
   "type": "module",
